@@ -1,0 +1,62 @@
+#header {
+    background-color: #D6BBC0;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: none;
+}
+
+#carousel {
+    margin-top: none;
+}
+
+#name-text {
+    text-decoration: none;
+    color: black;
+}
+
+#footer-container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #F6D9EF;
+}
+
+#portfolio-container {
+    padding-top: 15px;
+}
+
+.navigation-collapse {
+    background-color: lightgrey;
+}
+
+#aboutMe-container {
+    padding-top: 15px;
+}
+
+#it-me {
+    border: solid;
+    border-width: 10px;
+    border-color: black;
+}
+
+#aboutMe-text {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: darkslategray;
+    padding: 10px;
+}
+
+#email-container {
+    padding-top: 15px;
+}
+
+body {
+    background-color: #f2e3ff;
+}
+
+html, body {
+    height: 100%;
+}
